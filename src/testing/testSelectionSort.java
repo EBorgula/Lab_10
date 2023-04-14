@@ -12,10 +12,17 @@ import org.junit.Test;
 public class testSelectionSort {
 @Test
 public void test() {
+<<<<<<< HEAD
 //testPositive();
 //testNegative();
 testMixed();
 testDuplicates();
+=======
+testPositive();
+testNegative();
+//testMixed();
+//testDuplicates();
+>>>>>>> 52cfdc99a50ba9dbc0aec638c57b55c6bc39b915
 }
 public testSelectionSort() {
 }
